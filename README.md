@@ -1,4 +1,5 @@
 ## Autonomous-obstacle-avoidance-mobile-robot
+![alt text](https://github.com/T-Basic/Autonomous-obstacle-avoidance-mobile-robot/blob/main/mobile%20robot.PNG)
 #### Description:
 A program that makes a mobile robot autonomously navigate down a corridor avoiding obstacles, exiting the corridor into an open space to search for a light (a lamp placed somewhere in the open space shining its light at the robot), autonomously moving towards the light to then neutralize the light by using the robots body to cover the light. 
 
